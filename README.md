@@ -1,23 +1,35 @@
-# Wild Fire Spread AnyLogic Simulation Model
-
 # Effects of Weather Patterns on Forest Fire Spread
 
-This repository contains the AnyLogic model developed for the project "Effects of Weather Patterns on Forest Fire Spread." The simulation analyzes the impact of weather factors on wildfire behavior, leveraging components of the Fire Weather Index.
+This repository contains the AnyLogic model for the project "Effects of Weather Patterns on Forest Fire Spread." This model simulates the influence of weather factors on wildfire dynamics, utilizing the Fire Weather Index (FWI) and the National Burned Area Composite (NBAC) dataset to enhance our understanding of fire behavior under different conditions.
 
-## Model Overview
+---
 
-The model simulates wildfire spread using weather indices, such as Fine Fuel Moisture Code (FFMC), Initial Spread Index (ISI), and Fire Weather Index (FWI). These indices are integrated with the National Burned Area Composite (NBAC) dataset to provide insights into fire dynamics under varying weather conditions.
+## Table of Contents
 
-## Getting Started
+1. [Prerequisites](#prerequisites)
+2. [Cloning the Repository](#cloning-the-repository)
+3. [Importing the Model in AnyLogic](#importing-the-model-in-anylogic)
+4. [Running the Model](#running-the-model)
+5. [Adjusting Parameters](#adjusting-parameters)
+6. [Outputs](#outputs)
+7. [License](#license)
+8. [Acknowledgments](#acknowledgments)
 
-### Prerequisites
+---
 
-- **AnyLogic Software**: Ensure AnyLogic (version X.X or later) is installed on your machine. You can download AnyLogic from [AnyLogic's official website](https://www.anylogic.com/).
+## Prerequisites
 
-### Cloning the Repository
+To open and run this model, you need:
+- **AnyLogic Software**: Please install AnyLogic (version X.X or later) from [AnyLogic's official website](https://www.anylogic.com/).
+- **Git** (optional): If you prefer cloning via command line.
 
-To get a copy of the model:
+## Cloning the Repository
+
+To obtain a copy of this project, follow one of these methods:
+
+### Method 1: Cloning via Git
+
+If Git is installed, open a terminal and enter the following command:
 
 ```bash
-git clone https://github.com/DEVANG-2021/Weather_Fire_Spread_Simulation_Model.git
-
+git clone https://github.com/yourusername/your-repository-name.git
