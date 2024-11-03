@@ -22,6 +22,8 @@ To open and run this model, you need:
 - **AnyLogic Software**: Please install AnyLogic (version X.X or later) from [AnyLogic's official website](https://www.anylogic.com/).
 - **Git** (optional): If you prefer cloning via command line.
 
+---
+
 ## Cloning the Repository
 
 To obtain a copy of this project, follow one of these methods:
@@ -32,14 +34,3 @@ If Git is installed, open a terminal and enter the following command:
 
 ```bash
 git clone https://github.com/yourusername/your-repository-name.git
-
-# Forest Fire Spread Simulation Model
-
-This project simulates the spread of forest fires based on different weather patterns and environmental conditions using AnyLogic. It includes parameter adjustments for weather factors like wind speed, humidity, and temperature, which influence the fire's progression.
-
-## Getting Started
-
-### Prerequisites
-- **AnyLogic**: Ensure AnyLogic software is installed on your computer. Download it from [AnyLogic's official site](https://www.anylogic.com/).
-
----
