@@ -70,11 +70,13 @@ git clone https://github.com/yourusername/your-repository-name.git
 3. **View the Simulation**:
    - The simulation window will open, displaying the wildfire spread based on selected weather conditions.
 
-### Example Screenshot
+### Example
 
 Here’s an example screenshot of the simulation:
 
-![Simulation Screenshot](screenshots/simulation_example.png)
+![Adjusting all parameters to zero](Images/unnamed.png)
+
+![Adjusting all parameters to above threshold](Images/unnamed (1).png)
 
 *Make sure to replace `screenshots/simulation_example.png` with the actual path and filename of your screenshot in the repository.*
 
