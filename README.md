@@ -34,3 +34,87 @@ If Git is installed, open a terminal and enter the following command:
 
 ```bash
 git clone https://github.com/yourusername/your-repository-name.git
+
+### Downloading the Repository
+
+1. **Download as ZIP**:
+   - Go to the repository’s GitHub page.
+   - Click on **Code > Download ZIP**.
+   
+2. **Extract the ZIP**:
+   - Unzip the downloaded file to a folder of your choice on your local machine.
+
+---
+
+## Importing the Model in AnyLogic
+
+1. **Open AnyLogic**:
+   - Start AnyLogic on your computer.
+
+2. **Import the Project**:
+   - In AnyLogic, go to **File > Open Project**.
+   - Navigate to the folder where you extracted the ZIP file.
+   - Select the `.alp` file (e.g., `ForestFireSpreadModel.alp`) and click **Open**.
+
+---
+
+## Running the Model
+
+1. **Select the Experiment**:
+   - Locate the **Projects** pane (usually on the left side of the AnyLogic interface).
+   - Select the main experiment, typically named `Main` or `Simulation`.
+
+2. **Run the Experiment**:
+   - Click the **Run** button (green triangle) in the AnyLogic toolbar, or right-click the experiment name and select **Run**.
+
+3. **View the Simulation**:
+   - The simulation window will open, displaying the wildfire spread based on selected weather conditions.
+
+### Example Screenshot
+
+Here’s an example screenshot of the simulation:
+
+![Simulation Screenshot](screenshots/simulation_example.png)
+
+*Make sure to replace `screenshots/simulation_example.png` with the actual path and filename of your screenshot in the repository.*
+
+---
+
+## Adjusting Parameters
+
+You can modify certain weather and fire parameters to see how different conditions affect the simulation:
+
+1. **Locate Parameters**:
+   - In the **Projects** pane, click on the main experiment (`Simulation` or `Main`).
+   
+2. **Modify Values**:
+   - Adjust fields like `windSpeed`, `temperature`, and `humidity` to simulate various scenarios.
+
+3. **Save and Run**:
+   - After modifying parameters, save changes and **Run** the experiment again to see the effects.
+
+---
+
+## Outputs
+
+The model provides several outputs, including:
+- **Fire Spread Rate**: Shows how quickly the fire spreads based on weather and vegetation conditions.
+- **Burn Area**: Indicates the total area burned over time.
+- **Weather Impact Analysis**: A breakdown of how factors like wind and humidity influence fire spread dynamics.
+
+---
+
+## License
+
+This project is licensed under [Your License Here].
+
+---
+
+## Acknowledgments
+
+Special thanks to Dr. Ziad Kobti and Dr. Xianli Wang for their support and guidance.
+
+**Technologies used**:
+- **AnyLogic**: For simulation modeling.
+- **Java**: For programming and model customization.
+
