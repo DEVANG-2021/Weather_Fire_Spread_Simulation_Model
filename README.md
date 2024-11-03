@@ -34,7 +34,7 @@ If Git is installed, open a terminal and enter the following command:
 
 ```bash
 git clone https://github.com/yourusername/your-repository-name.git
-
+```
 ### Downloading the Repository
 
 1. **Download as ZIP**:
