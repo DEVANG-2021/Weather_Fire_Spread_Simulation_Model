@@ -76,7 +76,7 @@ Here’s an example screenshot of the simulation:
 
 ![Adjusting all parameters to zero](Images/unnamed.png)
 
-![Adjusting all parameters to zero](Images/unnamed(1).png)
+![Adjusting all parameters to zero](Images/ss2.png)
 
 
 
@@ -101,14 +101,8 @@ You can modify certain weather and fire parameters to see how different conditio
 
 The model provides several outputs, including:
 - **Fire Spread Rate**: Shows how quickly the fire spreads based on weather and vegetation conditions.
-- **Burn Area**: Indicates the total area burned over time.
+- **Burn Area**: Indicates the total area burned.
 - **Weather Impact Analysis**: A breakdown of how factors like wind and humidity influence fire spread dynamics.
-
----
-
-## License
-
-This project is licensed under [Your License Here].
 
 ---
 
